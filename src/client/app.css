@@ -1,0 +1,30 @@
+.vending-machine {
+  background-color: pink;
+  width: 30em;
+  margin: auto;
+  text-align: center;
+}
+
+.total {
+  width: 60%;
+  text-align: center;
+  margin: auto;
+  font-size: 1.5em;
+  font-weight: 600;
+  border: 0.1em dashed grey;
+  border-radius: 5%;
+  color:white;
+  background-color: black;
+}
+
+.reset {
+  font-size: 0.6em;
+  font-weight: 500;
+  border-radius: 6%;
+  margin-left: 2em;
+}
+
+.error-message {
+   color: red;
+   font-weight: bold;
+}

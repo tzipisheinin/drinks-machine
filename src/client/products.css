@@ -1,0 +1,28 @@
+.products-container {
+   padding-top: 4em;
+   /* text-align: center; */
+}
+.title {
+   font-size: 1.5em;
+   font-weight: bold;
+   border-style: solid;
+   background-color: white;    
+}
+
+.products {
+   display: flex;
+   height: 17em;
+   background-color: black;
+}
+
+.product {
+   margin: auto;
+   color: white;
+   font-weight: bold;
+}
+
+.product-image {
+   margin: auto;
+   height: 12em;
+   /* padding: 0 2em 0 2em; */
+}
